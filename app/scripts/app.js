@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('angularApp', [
+  .module('mytodoApp', [
     'ngCookies',
     'ngResource',
     'ngSanitize',
